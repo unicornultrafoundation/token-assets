@@ -1,0 +1,14 @@
+{
+  "contract": "0xC5f15624b4256C1206e4BB93f2CCc9163A75b703",
+  "type": "URC-20",
+  "name": "Wrapped U2U",
+  "symbol": "WU2U",
+  "decimals": 18,
+  "description": "Wrapped version of U2U",
+  "website": "",
+  "github": "",
+  "telegram": "",
+  "medium": "",
+  "twitter": "",
+  "facebook": ""
+}
