@@ -4,7 +4,7 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "decimals": 6,
-  "description": "KRC20 pegged version of USDT Token",
+  "description": "URC20 pegged version of USDT Token",
   "website": "",
   "github": "",
   "telegram": "",
