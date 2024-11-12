@@ -1,0 +1,14 @@
+{
+  "contract": "0xCEe1525E6A5eBc6c918c12b42B0c57f58013012f",
+  "type": "URC-20",
+  "name": "Pegged USDT",
+  "symbol": "pUSDT",
+  "decimals": 6,
+  "description": "URC20 pegged version of USDT Token",
+  "website": "",
+  "github": "",
+  "telegram": "",
+  "medium": "",
+  "twitter": "",
+  "facebook": ""
+}
